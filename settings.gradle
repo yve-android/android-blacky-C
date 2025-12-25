@@ -1,0 +1,2 @@
+﻿rootProject.name = 'BlackyC'
+include ':app'
